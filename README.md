@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hi, I'm <a href="https://aristi.dev">Adrian Flores</a> 👋</h1>
+<h1>Hi, I'm <a href="https://aristi.dev">Adrian Flores</a> 👋</h1>
 </div>
 
 ### ⚙️ GitHub Analytics
