@@ -29,16 +29,6 @@
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte">
 </p>
 
-<h2 align="center"> My Github Stats </h2>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Adr4563&show_icons=true&theme=radical&line_height=27" 
-    width=500 />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adr4563&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" 
-    width=500 />
-</p>
-
-
 ## Workshops
 <a href="https://github.com/Adr4563/Workshop-Markdown-Language">
   <img src="https://github.com/user-attachments/assets/7c962ab6-96e6-4ddb-916f-ef8e96610a2d" alt="Workshop Markdown Language" style="width: 150px; border: none;"></a>
