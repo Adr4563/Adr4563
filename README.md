@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f6072e0b-df4b-46e9-a688-a0688802e23d" alt="website"/>
+  <img src="https://github.com/user-attachments/assets/f6072e0b-df4b-46e9-a688-a0688802e23d" alt="website" style="height:350px; width: 900px"/>
 </p>
 <p align="center">
   <a href="https://tu-pagina-web.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website" style="width: 48px; height: 48px;"/></a>
