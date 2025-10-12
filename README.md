@@ -1,56 +1,43 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f6072e0b-df4b-46e9-a688-a0688802e23d" alt="website" style="height:300px; width: 900px"/>
-</p>
-<p align="center">
-  <a href="https://tu-pagina-web.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website" style="width: 48px; height: 48px;"/></a>
-  <a href="mailto:tu-email@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" style="width: 48px; height: 48px;"/></a>
-  <a href="https://www.linkedin.com/in/tu-usuario"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="width: 48px; height: 48px;"/></a>
-  <a href="https://twitter.com/tu-usuario"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter" style="width: 48px; height: 48px;"/></a>
-  <a href="https://www.instagram.com/tu-usuario"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" style="width: 48px; height: 48px;"/></a>
-  <a href="https://github.com/tu-usuario"><img src="https://img.icons8.com/color/48/000000/github.png" alt="github" style="width: 48px; height: 48px;"/></a>
-</p>
-
-
+<h1 align="center">Hola, soy Adrián Flores Uzategui 👋</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas | DevOps & Automatización</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white" alt="JSS">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte">
+  Ingeniero de Sistemas en formación con pasión por la automatización de procesos y la infraestructura como código. Enfocado en integrar herramientas como Docker con Python y React para construir soluciones robustas y escalables.
 </p>
 
-## Workshops
-<a href="https://github.com/Adr4563/Workshop-Markdown-Language">
-  <img src="https://github.com/user-attachments/assets/7c962ab6-96e6-4ddb-916f-ef8e96610a2d" alt="Workshop Markdown Language" style="width: 150px; border: none;"></a>
+---
 
-<a href="https://github.com/Adr4563/Comprehensive-Guide-to-Git-GitHub-GitLab-Bitbucket-SourceTree">
-  <img src="https://github.com/user-attachments/assets/0470edeb-fb82-497a-a33c-2f2533ee7f5a" alt="Comprehensive Guide to Git" style="width: 150px; border: none;"></a>
+<h2 align="center">🛠️ Habilidades Clave</h2>
 
-## Scientific
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Web Scraping">
+  <img src="https://img.shields.io/badge/DevOps-F57A1D?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-<a href="https://github.com/Adr4563/Object_Detection_YOLOv8">
-  <img src="https://github.com/user-attachments/assets/407cba86-71b8-4784-a584-4906399cf7be" alt="Object Detection YOLOv8" style="width: 150px; border: none;"></a>
+---
 
-<a href="https://github.com/Adr4563/Algorithm-RSA">
-  <img src="https://github.com/user-attachments/assets/6bd9d26b-92aa-4546-a3b0-412608df97e5" alt="Algorithm RSA" style="width: 150px; border: none;"></a>
+<h2 align="center">🚀 Proyectos Destacados (Ver Repositorios)</h2>
 
-<a href="https://github.com/Adr4563/Genetic_Algorithm_And_TSP">
-  <img src="https://github.com/user-attachments/assets/74ce5e05-dabc-45f5-9a54-702625fa14d4" alt="Genetic Algorithm and TSP" style="width: 150px; border: none;"></a>
+| Proyecto | Enfoque | Tecnologías Clave |
+| :--- | :--- | :--- |
+| **Object Detection YOLOv8** | Visión Artificial, Detección de objetos en tiempo real. | `Python`, `YOLOv8`, `OpenCV` |
+| **PROYECTO: Ecommerce en React** | Desarrollo Front-End, Contenerización de aplicaciones web. | `React`, `JavaScript`, `Docker` |
+| **Algoritmos Criptográficos** | Seguridad Informática (RSA, Hashing), Bases de Ciberseguridad. | `C++`, `Ciberseguridad` |
+| **Gestión de Datos: Cineplanet** | Extracción y estructura de datos masivos. | `Python`, `Web Scraping` |
 
+---
 
-## Basic Frameworks
+<h2 align="center">🔗 Conéctate Conmigo</h2>
 
-<a href="https://github.com/Adr4563/Svelte_and_SQL_Work">
-  <img src="https://github.com/user-attachments/assets/10225d45-47fb-45c5-bde3-45d26f3f106f" alt="Svelte and SQL Work" style="width: 150px; border: none;">
-</a>
-
+<p align="center">
+  <a href="mailto:afloresu.01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/TuUsuarioLinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Adr4563" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
